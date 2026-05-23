@@ -1,12 +1,11 @@
 {
   "name": "crypto-trade-planner",
   "version": "1.0.0",
-  "description": "Desktop app to plan crypto trades with risk management",
+  "description": "Web app to plan crypto trades with risk management",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.16.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
